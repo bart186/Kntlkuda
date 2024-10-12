@@ -108,7 +108,7 @@ const circleData = {
         element: 'house2', angle: 110, offset: 30,
         display: {
           caption: `Hi, I'm a house. Do you want to see Masa's website?`,
-          link: linkButton('https://ma5a.com/', 'sure, why not'),
+          link: linkButton('https://bart186.github.io/Text-for-u/', 'sure, why not'),
           button: 'maybe next time'
         } 
       },
